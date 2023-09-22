@@ -17,8 +17,8 @@ Classification is a supervised learning task where the goal is to predict the cl
 - Naive Bayes
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
-- Decision Trees
-- Random Forest
+- Decision Trees Classification
+- Random Forest Classification
 
 ### 2. Regression
 
@@ -27,7 +27,7 @@ Regression is a supervised learning task that aims to predict a continuous numer
 - Linear Regression
 - Polynomial Regression
 - Support Vector Regression (SVR)
-- Decision Trees
+- Decision Trees Regression
 - Random Forest Regression
 
 ### 3. Clustering

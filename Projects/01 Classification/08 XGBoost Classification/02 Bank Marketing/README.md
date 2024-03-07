@@ -37,14 +37,12 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 ### related with the last contact of the current campaign:
 
 - `contact` (categorical): contact communication type:
-    - "unknown"
     - "telephone"
     - "cellular"
 - `day_of_week` (numeric): last contact day of the week
 - `month` (categorical): last contact month of year:
-    - "jan"
-    - "feb"
     - "mar"
+    - "apr"
     - ...
     - "nov"
     - "dec"
@@ -56,8 +54,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 - `pdays` (numeric) - number of days that passed by after the client was last contacted from a previous campaign (-1 means client was not previously contacted)
 - `previous` (numeric) - number of contacts performed before this campaign and for this client
 - `poutcome` (categorical) - outcome of the previous marketing campaign:
-    - "unknown"
-    - "other"
+    - "nonexistent"
     - "failure"
     - "success"
 
